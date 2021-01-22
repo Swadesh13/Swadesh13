@@ -2,7 +2,9 @@
 **Swadesh13/Swadesh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## ![Swadesh Jana's header](https://github.com/Swadesh13/Swadesh13/blob/master/icon/header.png)
+<p align="center">
+<img align="center" src="https://github.com/Swadesh13/Swadesh13/raw/main/icon/header.png" alt="Swadesh Jana's header">
+</p>
 
 <h2 align="center">Hello there! 👋</h2>
 
