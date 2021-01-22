@@ -8,7 +8,7 @@
 
 <h2 align="center">Hello there! 👋</h2>
 
-<p align="center"> I am a developer and passionate about AI. I have been working on a few projects related to AI (mostly based on CNN) using Tensorflow (Python), a bit of backend work using Node JS or (PHP rarely), frontend using HTML, CSS, Bootstrap and JS, know some basic GCP and AWS features and also, C/C++. Currently, I am pursuing my Bachelors in Computer Science and Engineering (2019-23) at Jadavpur University, Kolkata, India. I am still doing under-graduate research work, small projects, hackathons or maybe my studies, but I am looking forward to learning more and helping others. :relaxed:</p>
+<p align="center"> I am a developer and passionate about AI. I have been working on a few projects related to AI (mostly based on CNN) using Tensorflow (Python), a bit of backend work using Node JS or (PHP rarely), frontend using HTML, CSS, Bootstrap and JS, know some basic GCP and AWS features and also, C/C++. Currently, I am pursuing my Bachelors in Computer Science and Engineering (2019-23) at Jadavpur University, Kolkata, India. I am mostly doing under-graduate research work, small projects, hackathons or maybe my studies, but I am looking forward to learning more and helping others. :relaxed:</p>
 
 ### 🌱 What I’m currently doing
 
