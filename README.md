@@ -13,7 +13,7 @@
 ### 🌱 What I’m currently doing
 
 - Doing some under-graduate Research work on AI Deep Learning Models mostly based on images (and CNN).
-- Secretary of DevHub JU, a Community of Developers at my University. Also, Lead in AI/ML and Python Applications branch of the Club.
+- Secretary of DevHub JU, a Community of Developers at my University. Also, Co-Lead in AI/ML and Python Applications branch of the Club.
 - JU-Sense Team Member, for deploying data collection systems and analyszing data for public use (as a part of University Research work)
 - Last, but not the least, studying 🤓
 
